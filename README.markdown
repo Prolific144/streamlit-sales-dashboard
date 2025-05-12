@@ -17,4 +17,4 @@ An interactive dashboard for analyzing sales data with dynamic filters, KPIs, an
 ![Footer](screenshots/footer.png)
 
 ## Deployment
-Deployed on Streamlit Community Cloud: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-app-name>.streamlit.app)
+Deployed on Streamlit Community Cloud: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-sales-dashboard-dy7t3qgwckyxpxfvc4rmrc.streamlit.app)
